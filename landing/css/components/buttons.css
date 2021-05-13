@@ -1,0 +1,28 @@
+.btn-banner {
+  background-color: #6AD58B;
+  color: white;
+  font-weight: thin;
+  border-radius: 8px;
+  padding: 16px 24px;
+  text-decoration: none;
+}
+
+.btn-banner:hover {
+  background-color: #3AC162;
+}
+
+.btn-card {
+  background: transparent;
+  color: rgba(0,0,0,0.5);
+  border: solid rgba(0,0,0,0.5);
+  border-width: thin;
+  border-radius: 32px;
+  padding: 16px 24px;
+  text-decoration: none;
+}
+
+.btn-card:hover {
+  color: rgba(0,0,0,0.9);
+  border: solid rgba(0,0,0,0.9);
+  border-width: thin;
+}

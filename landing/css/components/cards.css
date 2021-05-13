@@ -1,0 +1,20 @@
+.card-experience {
+  background-color: white;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.3);
+  margin: 8px auto;
+  width: 500px;
+  position: relative;
+}
+
+.card-experience > img {
+  height: 300px;
+  width: 100%;
+}
+
+.card-experience > div {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 8px;
+  line-height: 16px;
+}
